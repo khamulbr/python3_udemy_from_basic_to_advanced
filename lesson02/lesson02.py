@@ -1,0 +1,7 @@
+print(123456)
+print('Alessandro', 'Dias', 'Something else')
+print('Maria','Dias', sep='-')
+print('Flavia','Dias', 'and', sep='-', end='-')
+print('Sergio','Dias', sep='-')
+print('825','176','070', sep='.', end='-')
+print(78)
